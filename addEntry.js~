@@ -15,8 +15,6 @@ function addEntry2(squirrel) {
 }
 
 addEntry2(true, "work", "touched tree", "pizza", "running", "television");
-addEntry2(true, "home", "touched tree", "pizza", "walking", "movie");
-addEntry2(true, "work", "touched tree", "chicken", "crawling", "beer");
 addEntry(["work", "ice cream", "cauliflower", "lasagna", "touched tree", "brushed teeth"], false);
 
 console.log(journal);
